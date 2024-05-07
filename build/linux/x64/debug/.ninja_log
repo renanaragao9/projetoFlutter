@@ -1,0 +1,106 @@
+# ninja log v5
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	c8ba9c82d108e262
+8	5312	0	flutter/_phony_	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_engine.h	c8ba9c82d108e262
+7337	7836	1715097718517653863	intermediates_do_not_run/renanbank	e6ac78a052767816
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/libflutter_linux_gtk.so	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	c8ba9c82d108e262
+5313	7239	1715097717917653892	CMakeFiles/renanbank.dir/flutter/generated_plugin_registrant.cc.o	31c9994c2d7cf161
+5313	7337	1715097718013653888	CMakeFiles/renanbank.dir/my_application.cc.o	a44abf267b1041cc
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	c8ba9c82d108e262
+7836	8019	0	CMakeFiles/install.util	b733b94c70b77e46
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	c8ba9c82d108e262
+16285	17127	1715005730227491314	CMakeFiles/renanbank.dir/main.cc.o	e49ffba9f4cbb38c
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_value.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	c8ba9c82d108e262
+8	5312	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_view.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/libflutter_linux_gtk.so	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_engine.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_value.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_view.h	c8ba9c82d108e262
+4	4921	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	c8ba9c82d108e262
+4	4921	0	flutter/_phony_	c8ba9c82d108e262
+4921	5465	1715098329745953007	CMakeFiles/renanbank.dir/flutter/generated_plugin_registrant.cc.o	31c9994c2d7cf161
+4922	5525	1715098329805953058	CMakeFiles/renanbank.dir/my_application.cc.o	a44abf267b1041cc
+5525	5765	1715098330049953266	intermediates_do_not_run/renanbank	e6ac78a052767816
+5765	5934	0	CMakeFiles/install.util	b733b94c70b77e46
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/libflutter_linux_gtk.so	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_engine.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_value.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_view.h	c8ba9c82d108e262
+6	4998	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	c8ba9c82d108e262
+6	4998	0	flutter/_phony_	c8ba9c82d108e262
+4999	6176	1715101979252743523	CMakeFiles/renanbank.dir/flutter/generated_plugin_registrant.cc.o	31c9994c2d7cf161
+5000	6214	1715101979296743573	CMakeFiles/renanbank.dir/my_application.cc.o	a44abf267b1041cc
+6214	6522	1715101979612743934	intermediates_do_not_run/renanbank	e6ac78a052767816
+6523	6707	0	CMakeFiles/install.util	b733b94c70b77e46
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/libflutter_linux_gtk.so	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_engine.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_value.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/fl_view.h	c8ba9c82d108e262
+28	5371	0	/home/izadora/Documentos/Outros Projetos/curso de flutter/renanbank/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	c8ba9c82d108e262
+28	5371	0	flutter/_phony_	c8ba9c82d108e262
+5380	7240	1715106688961717464	CMakeFiles/renanbank.dir/flutter/generated_plugin_registrant.cc.o	31c9994c2d7cf161
+5381	7291	1715106689021717026	CMakeFiles/renanbank.dir/my_application.cc.o	a44abf267b1041cc
+7291	7831	1715106689565713060	intermediates_do_not_run/renanbank	e6ac78a052767816
+7831	8033	0	CMakeFiles/install.util	b733b94c70b77e46
