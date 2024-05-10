@@ -6,15 +6,28 @@ class RenanBank extends StatelessWidget {
   @override
   Widget build(BuildContext context) { 
     return MaterialApp(
-      home: Scaffold(
-        body: ListaTransferencia(),
+      theme: ThemeData(
+        primaryColor: Colors.green[900],
+        buttonTheme: ButtonThemeData(
+          buttonColor: Colors.blueAccent[900],
+          textTheme: ButtonTextTheme.primary,
+        ),
       ),
+      home: ListaTransferencia(),
     );
   }
 }
 
-class FormularioTransferencia extends StatelessWidget {
+class FormularioTransferencia extends StatefulWidget {
 
+  @override
+  State<StatefulWidget> createState() {
+    return FormularioTransferenciaState();
+  }
+}
+
+class FormularioTransferenciaState extends State<FormularioTransferencia> {
+  
   final TextEditingController _controladorCampoNumeroConta = TextEditingController();
   final TextEditingController _controladorCampoValor = TextEditingController();
 
@@ -24,26 +37,28 @@ class FormularioTransferencia extends StatelessWidget {
       appBar: AppBar(
         title: Text('Criando Tranferência'),
       ),
-      body: Column(
-        children: <Widget> [
-          Editor(
-            controlador: _controladorCampoNumeroConta,
-            rotulo: 'Número da Conta',
-            dica: '0000',
-          ),
-          
-          Editor(
-            controlador: _controladorCampoValor, 
-            rotulo: 'Valor', // Nome
-            dica: '0.00', // Dica
-            icone: Icons.monetization_on, // Icone
-          ),
-
-          ElevatedButton(
-            onPressed: () => criaTrasferencia(context), 
-            child: Text('Confirmar'),
-          )
-        ],
+      body: SingleChildScrollView(
+        child: Column(
+          children: <Widget> [
+            Editor(
+              controlador: _controladorCampoNumeroConta,
+              rotulo: 'Número da Conta',
+              dica: '0000',
+            ),
+            
+            Editor(
+              controlador: _controladorCampoValor, 
+              rotulo: 'Valor', // Nome
+              dica: '0.00', // Dica
+              icone: Icons.monetization_on, // Icone
+            ),
+      
+            ElevatedButton(
+              onPressed: () => criaTrasferencia(context), 
+              child: Text('Confirmar'),
+            )
+          ],
+        ),
       ),
     );
   }
@@ -95,24 +110,32 @@ class Editor extends StatelessWidget {
   }
 }
 
-class ListaTransferencia extends StatelessWidget {
+class ListaTransferencia extends StatefulWidget {
 
   final List<Transferencia> _transferencias = [];
 
   @override
+  State<StatefulWidget> createState() {
+    return ListaTransferenciasState();
+  }
+  
+}
+
+class ListaTransferenciasState extends State<ListaTransferencia> {
+  
+  @override
   Widget build(BuildContext context) {
-    _transferencias.add(Transferencia(100.00, 1000));
-    // ignore: prefer_const_constructors
+  
     return Scaffold(
       appBar: AppBar(
         title: const Text('Transferências'),
       ),
 
       body: ListView.builder(
-        itemCount: _transferencias.length,
+        itemCount: widget._transferencias.length,
         itemBuilder: (context, indice) {
-          final Transferencia = _transferencias[indice];
-          return ItemTransferencia(Transferencia);
+          final transferencia = widget._transferencias[indice];
+          return ItemTransferencia(transferencia);
         },
       ),
 
@@ -124,7 +147,11 @@ class ListaTransferencia extends StatelessWidget {
           future.then((transferenciaRecebida) {
             debugPrint('Chegou no then do future');
             debugPrint('$transferenciaRecebida');
-            _transferencias.add(transferenciaRecebida);
+            if(transferenciaRecebida != null) {
+              setState(() {
+                widget._transferencias.add(transferenciaRecebida);
+              });
+            }
           });
         },
         child: Icon(Icons.add),
@@ -138,7 +165,7 @@ class ItemTransferencia extends StatelessWidget{
   // ignore: unused_field
   final Transferencia _transferencia;
 
-  const ItemTransferencia(this._transferencia);
+   ItemTransferencia(this._transferencia);
 
   @override
   Widget build(BuildContext context) {
@@ -156,7 +183,7 @@ class Transferencia {
   final double valor;
   final int numeroConta;
   
-  const Transferencia(this.valor, this.numeroConta);
+  Transferencia(this.valor, this.numeroConta);
 
   @override
   String toString() {
